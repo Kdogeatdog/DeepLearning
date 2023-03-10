@@ -1,2 +1,2 @@
 # DeepLearning
-# To save the homework in Machine Learning and Deep Learning.
+To save my homework and cource slides in Machine Learning and Deep Learning.
